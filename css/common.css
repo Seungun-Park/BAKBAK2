@@ -1,0 +1,66 @@
+.nav_item_hover {
+    background-color:#343A40;
+    color:#222222;
+}
+.nav_item_hover:hover {
+    background-color:#000000;
+    color:white;
+}
+
+.input-group {
+    margin-top:1em;
+    margin-bottom:1em;
+}
+
+.login-box {
+    line-height:2.3em;
+    font-size:1em;
+    color:#aaa;
+    margin-top:1em;
+    margin-bottom:1em;
+    padding-top:0.5em;
+    padding-bottom:0.5em;
+}
+
+.register-box {
+    line-height:2.3em;
+    font-size:1em;
+    color:#aaa;
+    margin-top:1em;
+    margin-bottom:1em;
+    padding-top:0.5em;
+    padding-bottom:1.5em;
+}
+
+.write-box {
+    line-height:2.3em;
+    font-size:1em;
+    color:#aaa;
+    margin-top:1em;
+    margin-bottom:1em;
+    padding-top:0.5em;
+    padding-bottom:1.5em;
+}
+
+.request-box {
+    line-height:2.3em;
+    font-size:1em;
+    color:#aaa;
+    margin-top:1em;
+    margin-bottom:1em;
+    padding-top:0.5em;
+    padding-bottom:3.5em;
+}
+
+.no_resize {
+    resize:none;
+}
+
+.content_title {
+    color:black;
+    font-weight:bold;
+}
+
+.content_info {
+    color:black;
+}
